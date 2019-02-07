@@ -1,0 +1,7 @@
+﻿  MFCTRYSERVERDlg.cpp
+c:\users\gsc-30285\desktop\mfc\mfctryserver\mfctryserver\mfctryserverdlg.cpp(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\gsc-30285\desktop\mfc\mfctryserver\mfctryserver\mfctryserverdlg.cpp(260): warning C4102: 'End': unreferenced label
+c:\users\gsc-30285\desktop\mfc\mfctryserver\mfctryserver\mfctryserverdlg.cpp(166): warning C4101: 'Str': unreferenced local variable
+c:\users\gsc-30285\desktop\mfc\mfctryserver\mfctryserver\mfctryserverdlg.cpp(165): warning C4101: 'Buffer': unreferenced local variable
+  MFCTRYSERVER.vcxproj -> C:\Users\gsc-30285\Desktop\MFC\MFCTRYSERVER\Debug\MFCTRYSERVER.exe
+  MFCTRYSERVER.vcxproj -> C:\Users\gsc-30285\Desktop\MFC\MFCTRYSERVER\Debug\MFCTRYSERVER.pdb (Full PDB)
